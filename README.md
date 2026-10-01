@@ -64,24 +64,7 @@
 3. 安卓用Chrome打开 → 自动提示安装应用
 
 ### 安卓APP
-详见 `android_app/构建说明.md`，使用Android Studio构建APK。
-
-## 部署方式
-
-### 方式一：Netlify Drop（最简单）
-1. 打开 https://app.netlify.com/drop
-2. 将整个项目文件夹拖入
-3. 获得网址，即可访问
-
-### 方式二：GitHub Pages
-1. 创建GitHub仓库，上传所有文件
-2. Settings → Pages → 选择main分支
-3. 获得 `https://用户名.github.io/仓库名/墨韵字帖.html`
-
-### 方式三：Vercel
-1. 打开 https://vercel.com
-2. 上传项目文件夹
-3. 自动部署获得网址
+详见：releast
 
 ## 目录结构
 
@@ -132,7 +115,7 @@ calligraphy/
 - **软件版权**：© 2026 李卡丘 版权所有
 - **联系邮箱**：43469213@qq.com
 - **碑帖内容**：所收碑帖均属公有领域古代法帖，仅供学习临摹使用
-- **字体授权**：使用的Web字体均为免费可商用字体
+- **字体授权**：使用的Web字体均为免费可商用字体，勿用于商业用途
 
 ## 更新日志
 
