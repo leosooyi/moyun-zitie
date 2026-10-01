@@ -1,0 +1,26 @@
+{
+  "name": "墨韵字帖",
+  "short_name": "墨韵字帖",
+  "description": "历代碑帖浏览与字帖生成，毛笔钢笔练字必备",
+  "start_url": "./墨韵字帖.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5EFE0",
+  "theme_color": "#2C1E10",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "books", "utilities"]
+}
